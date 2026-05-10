@@ -1,0 +1,16 @@
+{
+  "overallState": "RUNNING",
+  "consecutiveLossCount": 0,
+  "totalFeesClaimedUsd": "0",
+  "totalGasSpentUsd": "0",
+  "totalIlRealizedUsd": "0",
+  "feeReserveUsd": "0",
+  "totalCapital": "200",
+  "pair1Allocation": "90",
+  "pair2Allocation": "90",
+  "gasReserve": "20",
+  "circuitBreakerTriggeredAt": null,
+  "pausedAt": null,
+  "pauseReason": null,
+  "lastPositionClosedAt": null
+}
